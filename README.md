@@ -1,5 +1,4 @@
 # Insurance-Data-Analysis
-This project involves analyzing insurance data using Power BI to uncover key insights into policy trends, customer demographics, and claim patterns through interactive dashboards and visualizations.
 This project presents a comprehensive analysis of insurance data using Power BI, aimed at deriving business insights from policy, claim, and customer feedback data.
 
 ### Tools Used:
